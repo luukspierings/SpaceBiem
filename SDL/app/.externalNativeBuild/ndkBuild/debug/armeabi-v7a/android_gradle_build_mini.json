@@ -1,0 +1,125 @@
+{
+  "buildFiles": [
+    "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk",
+    "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 clean"
+  ],
+  "libraries": {
+    "timidity-debug-armeabi-v7a": {
+      "artifactName": "timidity",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libtimidity.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libtimidity.a"
+    },
+    "webp-debug-armeabi-v7a": {
+      "artifactName": "webp",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libwebp.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libwebp.a"
+    },
+    "hidapi-debug-armeabi-v7a": {
+      "artifactName": "hidapi",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libhidapi.so",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libhidapi.so"
+    },
+    "webpdecoder_static-debug-armeabi-v7a": {
+      "artifactName": "webpdecoder_static",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libwebpdecoder_static.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libwebpdecoder_static.a"
+    },
+    "jpeg-debug-armeabi-v7a": {
+      "artifactName": "jpeg",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libjpeg.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libjpeg.a"
+    },
+    "main-debug-armeabi-v7a": {
+      "artifactName": "main",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libmain.so",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libmain.so"
+    },
+    "freetype-debug-armeabi-v7a": {
+      "artifactName": "freetype",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libfreetype.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libfreetype.a"
+    },
+    "cpufeatures-debug-armeabi-v7a": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libcpufeatures.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libcpufeatures.a"
+    },
+    "SDL2_mixer-debug-armeabi-v7a": {
+      "artifactName": "SDL2_mixer",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libSDL2_mixer.so",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libSDL2_mixer.so"
+    },
+    "Box2D-debug-armeabi-v7a": {
+      "artifactName": "Box2D",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libBox2D.so",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libBox2D.so"
+    },
+    "SDL2_image-debug-armeabi-v7a": {
+      "artifactName": "SDL2_image",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libSDL2_image.so",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libSDL2_image.so"
+    },
+    "png-debug-armeabi-v7a": {
+      "artifactName": "png",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libpng.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libpng.a"
+    },
+    "SDL2_ttf-debug-armeabi-v7a": {
+      "artifactName": "SDL2_ttf",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libSDL2_ttf.so",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libSDL2_ttf.so"
+    },
+    "modplug-debug-armeabi-v7a": {
+      "artifactName": "modplug",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libmodplug.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libmodplug.a"
+    },
+    "SDL2-debug-armeabi-v7a": {
+      "artifactName": "SDL2",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libSDL2.so",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libSDL2.so"
+    },
+    "ogg-debug-armeabi-v7a": {
+      "artifactName": "ogg",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libogg.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libogg.a"
+    },
+    "vorbisidec-debug-armeabi-v7a": {
+      "artifactName": "vorbisidec",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libvorbisidec.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libvorbisidec.a"
+    },
+    "mpg123-debug-armeabi-v7a": {
+      "artifactName": "mpg123",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libmpg123.so",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libmpg123.so"
+    },
+    "FLAC-debug-armeabi-v7a": {
+      "artifactName": "FLAC",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libFLAC.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libFLAC.a"
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "buildFiles": [
+    "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk",
+    "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 clean"
+  ],
+  "libraries": {
+    "webpdecoder_static-release-x86": {
+      "artifactName": "webpdecoder_static",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libwebpdecoder_static.a",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libwebpdecoder_static.a"
+    },
+    "Box2D-release-x86": {
+      "artifactName": "Box2D",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libBox2D.so",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libBox2D.so"
+    },
+    "ogg-release-x86": {
+      "artifactName": "ogg",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libogg.a",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libogg.a"
+    },
+    "webp-release-x86": {
+      "artifactName": "webp",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libwebp.a",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libwebp.a"
+    },
+    "SDL2_mixer-release-x86": {
+      "artifactName": "SDL2_mixer",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libSDL2_mixer.so",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libSDL2_mixer.so"
+    },
+    "hidapi-release-x86": {
+      "artifactName": "hidapi",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libhidapi.so",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libhidapi.so"
+    },
+    "FLAC-release-x86": {
+      "artifactName": "FLAC",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libFLAC.a",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libFLAC.a"
+    },
+    "modplug-release-x86": {
+      "artifactName": "modplug",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libmodplug.a",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libmodplug.a"
+    },
+    "png-release-x86": {
+      "artifactName": "png",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libpng.a",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libpng.a"
+    },
+    "cpufeatures-release-x86": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libcpufeatures.a",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libcpufeatures.a"
+    },
+    "vorbisidec-release-x86": {
+      "artifactName": "vorbisidec",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libvorbisidec.a",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libvorbisidec.a"
+    },
+    "jpeg-release-x86": {
+      "artifactName": "jpeg",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libjpeg.a",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libjpeg.a"
+    },
+    "SDL2-release-x86": {
+      "artifactName": "SDL2",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libSDL2.so",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libSDL2.so"
+    },
+    "mpg123-release-x86": {
+      "artifactName": "mpg123",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libmpg123.so",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libmpg123.so"
+    },
+    "SDL2_ttf-release-x86": {
+      "artifactName": "SDL2_ttf",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libSDL2_ttf.so",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libSDL2_ttf.so"
+    },
+    "timidity-release-x86": {
+      "artifactName": "timidity",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libtimidity.a",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libtimidity.a"
+    },
+    "SDL2_image-release-x86": {
+      "artifactName": "SDL2_image",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libSDL2_image.so",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libSDL2_image.so"
+    },
+    "freetype-release-x86": {
+      "artifactName": "freetype",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libfreetype.a",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libfreetype.a"
+    },
+    "main-release-x86": {
+      "artifactName": "main",
+      "buildCommand": "C:\\Users\\spier\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 C:/Users/spier/Documents/Android_projects/SDL/app/build/intermediates/ndkBuild/release/obj/local/x86/libmain.so",
+      "abi": "x86",
+      "output": "C:\\Users\\spier\\Documents\\Android_projects\\SDL\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libmain.so"
+    }
+  }
+}

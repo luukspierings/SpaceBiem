@@ -1,0 +1,20 @@
+#pragma once
+
+
+
+#include "EntityFactory.h"
+#include "../FileParser.h"
+#include <vector>
+
+using biemgine::Entity;
+
+namespace spacebiem
+{
+    class ScoreUIFactory :
+        public EntityFactory
+    {
+    public:
+        void sceneStart(int windowW, int windowH, shared_ptr<EntityManager> entityManager) override;
+        void sceneEnd(shared_ptr<EntityManager> entityManager) override;
+    };
+}

@@ -32,10 +32,10 @@ namespace biemgine
 
     bool SDLAudioDevice::isPlayingMusic(std::string path)
     {
-        if (Mix_PlayingMusic() && (path.empty() || currentlyPlayingMusic == path))
-        {
-            return true;
-        }
+//        if (Mix_PlayingMusic() && (path.empty() || currentlyPlayingMusic == path))
+//        {
+//            return true;
+//        }
 
         return false; 
     }
@@ -111,29 +111,29 @@ namespace biemgine
 
     void SDLAudioDevice::playMusic(std::string path, int loops, int volume)
     {
-        if (Mix_PlayMusic(getMusic(path), loops) < 0)
-        {
-            std::cout << "Play music error: " << Mix_GetError() << std::endl;
-        }
-
-        Mix_VolumeMusic(volume);
+//        if (Mix_PlayMusic(getMusic(path), loops) < 0)
+//        {
+//            std::cout << "Play music error: " << Mix_GetError() << std::endl;
+//        }
+//
+//        Mix_VolumeMusic(volume);
         currentlyPlayingMusic = path;
     }
 
     void SDLAudioDevice::pauzeMusic()
     {
-        if (Mix_PlayingMusic() != 0)
-        {
-            Mix_PauseMusic();
-        }
+//        if (Mix_PlayingMusic() != 0)
+//        {
+//            Mix_PauseMusic();
+//        }
     }
 
     void SDLAudioDevice::resumeMusic()
     {
-        if (Mix_PausedMusic() != 0)
-        {
-            Mix_ResumeMusic();
-        }
+//        if (Mix_PausedMusic() != 0)
+//        {
+//            Mix_ResumeMusic();
+//        }
     }
 
     void SDLAudioDevice::stopSoundEffect(std::string path)

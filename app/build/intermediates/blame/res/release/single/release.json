@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\spier\\Documents\\Android_projects\\SpaceBiem\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\spier\\Documents\\Android_projects\\SpaceBiem\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\spier\\Documents\\Android_projects\\SpaceBiem\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\spier\\Documents\\Android_projects\\SpaceBiem\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\spier\\Documents\\Android_projects\\SpaceBiem\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\spier\\Documents\\Android_projects\\SpaceBiem\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\spier\\Documents\\Android_projects\\SpaceBiem\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\spier\\Documents\\Android_projects\\SpaceBiem\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\spier\\Documents\\Android_projects\\SpaceBiem\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\spier\\Documents\\Android_projects\\SpaceBiem\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

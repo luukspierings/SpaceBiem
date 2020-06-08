@@ -1,4 +1,4 @@
-#Tue Jun 02 22:06:57 CEST 2020
+#Mon Jun 08 21:35:01 CEST 2020
 base.0=C\:\\Users\\spier\\Documents\\Android_projects\\SpaceBiem\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
